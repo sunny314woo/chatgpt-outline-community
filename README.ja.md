@@ -8,7 +8,7 @@ ChatGPTの会話にクリック可能な目次を追加する、ソース公開�
 
 **[Chrome ウェブストアで Outlinesave を入手](https://chromewebstore.google.com/detail/opbngifmlnoahbhjhgmngkggedlofddj)** · **[HTMLエクスポートのデモを見る](https://wisteriasoftware.uk/demo)**
 
-> **Community Edition:** デモ版の制限：移動できるのは最初の15項目のみ. The features described below under Outlinesave belong to the separate full extension.
+> **注意：** コミュニティ版で移動できるのは最初の15項目のみです。以下のOutlinesave機能は別製品の正式版に含まれます。
 
 ## 会話の目次が必要な理由
 
