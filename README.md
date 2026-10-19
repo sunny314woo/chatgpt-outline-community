@@ -1,4 +1,4 @@
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
+**Languages:** [English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
 
 # ChatGPT Outline Community — Table of Contents for Long ChatGPT Conversations
 
@@ -8,7 +8,7 @@ A lightweight, source-available Chrome extension that adds a clickable outline t
 
 **[Try Outlinesave on Chrome Web Store](https://chromewebstore.google.com/detail/opbngifmlnoahbhjhgmngkggedlofddj)** · **[Explore the interactive HTML export demo](https://wisteriasoftware.uk/demo)**
 
-> **Community Edition:** Demo limitation: only the first 15 outline entries support jumping. The features described below under Outlinesave belong to the separate full extension.
+> **Community Edition:** Only the first 15 outline entries support jumping. The Outlinesave features below belong to the separately installed full extension.
 
 ## Why use a conversation outline?
 
@@ -99,4 +99,4 @@ This community demo is source-available under the custom LICENSE, not MIT or Apa
 
 **[Try Outlinesave on Chrome Web Store](https://chromewebstore.google.com/detail/opbngifmlnoahbhjhgmngkggedlofddj)** · **[Explore the interactive HTML export demo](https://wisteriasoftware.uk/demo)**
 
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
+**Languages:** [English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
