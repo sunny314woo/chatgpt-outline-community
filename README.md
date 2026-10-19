@@ -89,6 +89,14 @@ No Outlinesave account is required, and chat text is processed locally by defaul
 
 Yes. Inbox Local is a separate application for organizing imported Markdown and rich HTML in a local workspace.
 
+### Is Outlinesave free?
+
+Yes. The Free edition keeps core navigation, bookmarks, annotations, Markdown/JSON export and other basic features. It includes **one standalone HTML export per week** (reset Monday UTC). A one-time 7-day trial and paid licenses offer unlimited HTML exports. Pricing and availability may change; see the [official product page](https://wisteriasoftware.uk/outline-pro).
+
+### Can I read the exported HTML on my phone?
+
+Yes. The responsive, standalone HTML file can be transferred to a phone and opened in a compatible browser without an internet connection. See the [HTML export demo](https://wisteriasoftware.uk/demo) for an example.
+
 ## Run the community demo locally
 
 Open chrome://extensions, enable Developer mode, select Load unpacked and choose this repository folder.
