@@ -1,4 +1,4 @@
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
+**言語：** [日本語](./README.ja.md) · [English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [Français](./README.fr.md)
 
 # ChatGPT Outline Community — 長いChatGPT会話の目次を表示
 
@@ -95,4 +95,4 @@ chrome://extensions でデベロッパーモードを有効にし、このフォ
 
 **[Chrome ウェブストアで Outlinesave を入手](https://chromewebstore.google.com/detail/opbngifmlnoahbhjhgmngkggedlofddj)** · **[HTMLエクスポートのデモを見る](https://wisteriasoftware.uk/demo)**
 
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
+**言語：** [日本語](./README.ja.md) · [English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [Français](./README.fr.md)
