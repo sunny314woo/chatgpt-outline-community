@@ -1,4 +1,4 @@
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
+**语言切换：** [简体中文](./README.zh-CN.md) · [English](./README.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
 
 # ChatGPT Outline 社区版：为 ChatGPT 长对话生成可点击目录
 
@@ -99,4 +99,4 @@ Outlinesave 可以搜索在线对话的目录标题；导出为 HTML 后，还�
 
 **[前往 Chrome 商店安装 Outlinesave](https://chromewebstore.google.com/detail/opbngifmlnoahbhjhgmngkggedlofddj)** · **[在线体验 HTML 导出效果](https://wisteriasoftware.uk/demo)**
 
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
+**语言切换：** [简体中文](./README.zh-CN.md) · [English](./README.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
