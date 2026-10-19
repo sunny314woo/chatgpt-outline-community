@@ -1,4 +1,4 @@
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
+**Langues :** [Français](./README.fr.md) · [English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md)
 
 # ChatGPT Outline Community — sommaire des longues conversations
 
@@ -95,4 +95,4 @@ Code consultable sous licence personnalisée LICENSE, pas MIT ni Apache-2.0. Voi
 
 **[Installer Outlinesave depuis Chrome Web Store](https://chromewebstore.google.com/detail/opbngifmlnoahbhjhgmngkggedlofddj)** · **[Essayer la démonstration HTML](https://wisteriasoftware.uk/demo)**
 
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
+**Langues :** [Français](./README.fr.md) · [English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md)
