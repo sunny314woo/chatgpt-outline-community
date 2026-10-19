@@ -8,7 +8,7 @@ Extensión ligera de Chrome con código visible que crea un índice navegable de
 
 **[Instalar Outlinesave desde Chrome Web Store](https://chromewebstore.google.com/detail/opbngifmlnoahbhjhgmngkggedlofddj)** · **[Probar la demostración de HTML](https://wisteriasoftware.uk/demo)**
 
-> **Community Edition:** Limitación de demostración: solo los primeros 15 elementos permiten saltar. The features described below under Outlinesave belong to the separate full extension.
+> **Nota:** La edición comunitaria solo permite saltar a los primeros 15 elementos. Las funciones de Outlinesave descritas abajo pertenecen a la extensión completa independiente.
 
 ## ¿Por qué usar un índice?
 
