@@ -8,7 +8,7 @@ Extension Chrome légère à code consultable qui ajoute un sommaire cliquable a
 
 **[Installer Outlinesave depuis Chrome Web Store](https://chromewebstore.google.com/detail/opbngifmlnoahbhjhgmngkggedlofddj)** · **[Essayer la démonstration HTML](https://wisteriasoftware.uk/demo)**
 
-> **Community Edition:** Limite de la démo : seuls les 15 premiers éléments sont navigables. The features described below under Outlinesave belong to the separate full extension.
+> **Remarque :** La démo communautaire permet de naviguer uniquement vers les 15 premiers éléments. Les fonctions Outlinesave ci-dessous appartiennent à l'extension complète distincte.
 
 ## Pourquoi un sommaire de conversation ?
 
