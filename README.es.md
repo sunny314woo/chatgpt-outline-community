@@ -1,4 +1,4 @@
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
+**Idiomas:** [Español](./README.es.md) · [English](./README.md) · [简体中文](./README.zh-CN.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
 
 # ChatGPT Outline Community: índice para conversaciones largas
 
@@ -95,4 +95,4 @@ Código visible bajo licencia personalizada LICENSE, no MIT ni Apache-2.0. Consu
 
 **[Instalar Outlinesave desde Chrome Web Store](https://chromewebstore.google.com/detail/opbngifmlnoahbhjhgmngkggedlofddj)** · **[Probar la demostración de HTML](https://wisteriasoftware.uk/demo)**
 
-[English](./README.md) · [简体中文](./README.zh-CN.md) · [Español](./README.es.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
+**Idiomas:** [Español](./README.es.md) · [English](./README.md) · [简体中文](./README.zh-CN.md) · [日本語](./README.ja.md) · [Français](./README.fr.md)
