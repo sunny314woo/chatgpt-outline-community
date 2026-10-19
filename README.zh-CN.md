@@ -89,6 +89,14 @@ Outlinesave 可以搜索在线对话的目录标题；导出为 HTML 后，还�
 
 可以使用独立的 Inbox Local，将 Markdown 或富 HTML 内容整理到本地知识工作台。
 
+### Outlinesave 免费吗？
+
+有免费版。目录导航、书签、标注、Markdown / JSON 导出等基础能力可以免费使用；**独立 HTML 导出每周 1 次**（周一 UTC 重置）。另有一次性 7 天试用和可不限次 HTML 导出的付费许可证。具体价格与权益以[官方产品页面](https://wisteriasoftware.uk/outline-pro)为准。
+
+### 导出的 HTML 能在手机上离线阅读吗？
+
+可以。HTML 是独立的响应式单文件，传到手机后可通过兼容的浏览器离线打开，不必登录 ChatGPT。可先查看[在线 HTML 演示](https://wisteriasoftware.uk/demo)。
+
 ## 本地安装社区演示版
 
 打开 chrome://extensions，开启开发者模式，点击「加载已解压的扩展程序」，选择本仓库文件夹。
