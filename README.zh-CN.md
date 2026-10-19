@@ -8,7 +8,7 @@
 
 **[前往 Chrome 商店安装 Outlinesave](https://chromewebstore.google.com/detail/opbngifmlnoahbhjhgmngkggedlofddj)** · **[在线体验 HTML 导出效果](https://wisteriasoftware.uk/demo)**
 
-> **Community Edition:** 演示版限制：只有前 15 条目录可以点击跳转. The features described below under Outlinesave belong to the separate full extension.
+> **注意：** 社区演示版仅前 15 条目录可跳转。下文 Outlinesave 功能属于单独发布的正式版扩展。
 
 ## 为什么需要 ChatGPT 对话目录？
 
